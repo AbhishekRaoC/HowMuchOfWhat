@@ -4,8 +4,6 @@ Created on Wed Oct 24 11:27:58 2018
 
 @author: cabhi
 """
-import time
-
 
 thou = 0
 hund = 0
@@ -14,9 +12,6 @@ twen = 0
 ten = 0
 fiv = 0
 total = 0
-
-
-print("This only works with USD and CHF at the moment i will work on adding other currencies when i get the time.")
 
 reqamt = int(input("What is the amount you want to store in USD: "))
 
